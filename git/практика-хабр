@@ -1,3 +1,13 @@
 1. Я создал отдельный репозиторий на хабе и отдельных два дира у себя на линуксе
 2. основной дир (назвали его root) инициализировали командой ``git init``
 3. командой git config user.name "Daler" - просто добавил себя как юзера
+4. проверили состояния рабочего каталога и в первый раз он выдал 
+    On branch master
+
+    No commits yet
+
+    Untracked files:
+        (use "git add <file>..." to include in what will be committed)
+            index.html
+
+    nothing added to commit but untracked files present (use "git add" to track)
